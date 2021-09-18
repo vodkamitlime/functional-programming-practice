@@ -1,4 +1,4 @@
-import { Container } from 'typedi';
+const { Container } = require('typedi');
 
 class ExampleClass {
   print() {

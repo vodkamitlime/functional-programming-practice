@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vodkamitlime/functional-programming-practice#readme",
   "dependencies": {
+    "reflect-metadata": "^0.1.13",
     "typedi": "^0.10.0"
   }
 }
